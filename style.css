@@ -171,7 +171,7 @@ body {
   }
 
   .description {
-      margin-left: 10px;
+      margin-right: 100px;
   }
 
   .footer {
@@ -188,7 +188,7 @@ body {
 
 }
 
-@media (max-width: 640px and min-width: 340px) {
+@media (max-width: 640px) {
 
   body { 
     margin: 0;
@@ -264,7 +264,8 @@ body {
   }
 
   .description {
-      margin-left: 10px;
+      margin-right: 380px;
+      margin-top: 10px;
   }
 
   .p {
@@ -281,7 +282,5 @@ body {
     color: white;
     text-align: center;
     margin-top:20px;
-
-  } 
-
+  }
 }
